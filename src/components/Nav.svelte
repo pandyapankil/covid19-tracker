@@ -1,7 +1,4 @@
 <script>
-import is from "moment/dist/locale/is";
-
-
 	let isOpen = false;
 	export let segment;
 	function toggleNav() {
